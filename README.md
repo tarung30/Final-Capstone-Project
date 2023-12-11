@@ -2,7 +2,7 @@
 
 **Business Problem and Project Objective Summary:**
 
-*Business Problem:* Maverik grapples with the challenge of providing precise daily sales forecasts for their new stores' initial year. The necessity arises from the need to accurately predict sales metrics, considering seasonality and diverse sales categories.
+*Business Problem:* The business problem for Maverik is centered around planning, forecasting, and reporting for their new stores. Specifically, they need to provide accurate daily forecasts for a new store's first-year sales. This involves creating a model that can predict daily sales for upcoming new stores for the first year, taking into account seasonality and multiple sales metrics. The primary challenge is to improve upon their current Naïve Model to achieve better accuracy in forecasting.
 
 *Project Objective:* The primary objective is to create a robust daily-level forecasting model for various sales metrics—Diesel Gallons, Unleaded Gallons, in-store merchandise, and food service. This model aims to significantly enhance forecasting accuracy for upcoming new stores, facilitating improved financial planning, efficient resource allocation, heightened customer satisfaction, and streamlined operational efficiency.
 
